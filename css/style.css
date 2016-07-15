@@ -92,7 +92,8 @@ blockquote {
 }
 
 #skillstab {
-  background-color:;
+  background-color: lightgrey;
+  padding-top: 10px;
 }
 
 main {
